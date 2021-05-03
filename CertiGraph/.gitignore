@@ -5,14 +5,12 @@ compcert/*
 *.vo
 *.glob
 .depend
-_CoqProject
 *.aux
 *.bbl
 *.blg
 *.log
 *.out
 *.dvi
-CONFIGURE
 .DS_Store
 *.xcworkspace
 project.pbxproj
